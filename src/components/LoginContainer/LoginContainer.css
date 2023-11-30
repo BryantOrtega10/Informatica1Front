@@ -1,0 +1,27 @@
+#container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 10%;
+    text-align: left;
+    height: 100vh;
+    background-image: url('imgs/fondo-inicio.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+ion-input{
+    margin-bottom: 1rem;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.logo{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 5rem;
+}
